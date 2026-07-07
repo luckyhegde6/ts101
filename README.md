@@ -78,8 +78,10 @@ tests/
 
 ### For more details, check the `docs/` folder:
 
--   [DESIGN.md](docs/DESIGN.md) - Design Overview (HLD/ LLD)
--   [GUIDE.md](docs/GUIDE.md) - Developer Guide (Run/Debug)
--   [LEARNING.md](docs/LEARNING.md) - TypeScript Learning Notes
--   [INTERVIEW.md](docs/INTERVIEW.md) - Interview Questions
--   References to key TS concepts - [link](https://www.typescriptlang.org/docs/handbook/intro.html)
+-   [DESIGN.md](docs/DESIGN.md) — Design Overview (HLD/LLD)
+-   [GUIDE.md](docs/GUIDE.md) — Developer Guide (Run/Debug)
+-   [LEARNING.md](docs/LEARNING.md) — TypeScript Learning Notes
+-   [INTERVIEW.md](docs/INTERVIEW.md) — Interview Questions
+-   [NEETCODE.md](docs/NEETCODE.md) — Sequence diagram, edge cases, complexity, patterns
+-   [DESIGN_PATTERNS.md](docs/DESIGN_PATTERNS.md) — Design patterns used and evolution
+-   References to key TS concepts — [link](https://www.typescriptlang.org/docs/handbook/intro.html)
